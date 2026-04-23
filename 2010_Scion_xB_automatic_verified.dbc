@@ -128,8 +128,7 @@ BA_DEF_DEF_ "GenMsgBackgroundColor" "#ffffff";
 BA_DEF_DEF_ "GenMsgForegroundColor" "#000000";
 BA_DEF_DEF_ "labelfilters" 1;
 
-VAL_ 951 VSC_OFF_INDICATOR 1 "Disabled" 0 "Enabled" ;
-VAL_ 948 Cruise_Active 1 "Cruise ON" 0 "Cruise OFF" ;
-VAL_ 948 Brake_Pressed 1 "Brake Pressed" 0 "Brake Released" ;
+VAL_ 951 VSC_OFF_BIT 1 "Disabled" 0 "Enabled" ;
+VAL_ 948 CRUISE_STATUS 1 "Cruise ON" 0 "Cruise OFF" ;
+VAL_ 948 BRAKE_PRESSED 1 "Brake Pressed" 0 "Brake Released" ;
 VAL_ 1553 UNITS 1 "km" 2 "miles";
- "standby";
